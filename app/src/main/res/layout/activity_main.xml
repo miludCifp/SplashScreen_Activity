@@ -9,8 +9,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bienvenido, esto es una prueba de Splash Screen!"
+        android:text="Bienvenido \n Usuario"
         android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:fontFamily="@font/pacifico_regular"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
